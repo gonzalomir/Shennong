@@ -4,7 +4,6 @@
 #include <HttpClient.h>
 #include <Xively.h>
 
-
 //datastreams
 char sensor1ID[] = "Humedad_Ambiente";
 char sensor2ID[] = "Temperatura_Ambiente";
